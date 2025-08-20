@@ -1,6 +1,6 @@
 # 🎯 Java Pattern Programs
 
-### 🧑‍💻 Author: BCA 2nd Year Student, Dezyne Ecole College, Ajmer
+### 🧑‍💻 Author: Harshita Verma , BCA 2nd Year Student, Dezyne Ecole College, Ajmer
 
 ---
 
@@ -29,10 +29,6 @@ The aim of this project is to practice and demonstrate logic building using **lo
 - **IDE Used:** (e.g., IntelliJ IDEA / Eclipse / VS Code)
 - **Platform:** Console Application
 
----
-
-
-Each `.java` file contains one pattern program, written with proper comments and clear formatting.
 
 ---
 
@@ -45,9 +41,11 @@ Each `.java` file contains one pattern program, written with proper comments and
 2. Open any Java file in your IDE or terminal.
 
 3. Compile and run:
-   javac Pattern1.java
-   java Pattern1
+   javac HPatternProject.java
+   java HPatternProject
 4. Follow the console prompts or check the output.
+
+
 
 🎯 Learning Outcomes
 
@@ -58,6 +56,7 @@ Each `.java` file contains one pattern program, written with proper comments and
 3. Understanding of nested structures
 
 4. Clean and readable Java coding practices
+
 
 
 🙋‍♂️ About Me
